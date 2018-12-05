@@ -141,7 +141,7 @@ call plug#begin('~/.local/share/nvim/plugged')
 Plug 'posva/vim-vue'
 Plug 'vim-jp/vimdoc-ja'
 Plug 'Shougo/vimproc.vim', { 'do': 'make' }
-Plug 'honjet/hydrangea-vim'
+Plug 'yuttie/hydrangea-vim'
 Plug 'itchyny/lightline.vim'
 Plug 'ryanoasis/vim-devicons'
 Plug 'scrooloose/nerdtree'
